@@ -52,6 +52,8 @@ You can install the necessary libraries using `pip`:
 pip install numpy pandas scikit-learn matplotlib seaborn
 ```
 
+
+> 💡 **Recommendation:** For better visualization and interactive graphs, it's recommended to run the `main.py` script in [Google Colab](https://colab.research.google.com/).
 ## Project launch
 
 1. Clone the repository:
